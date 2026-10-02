@@ -148,8 +148,8 @@ The system is designed to improve traceability and digitalize the complete lifec
 🔔 Automated alerts  
 📄 Delivery documentation and history  
 
-<a href="LINK_REPOSITORY_PPE">
-  <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://lauperfra.github.io/Prototipo-funcional-EPIs/login.html">
+  <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 ---
