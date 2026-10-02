@@ -71,9 +71,9 @@ I enjoy transforming ideas and real-world needs into useful, maintainable softwa
 
 ### 🏢 Unifincas
 
-This project is a **public adaptation of my Bachelor's Degree Final Project**, originally developed as a full-stack platform for property management companies.
+Full-stack platform developed to digitalize and streamline everyday processes in **property management companies**.
 
-The original project included features such as:
+The project includes features such as:
 
 - 🔑 Key request and return management
 - 💳 Online payments with Stripe
@@ -83,7 +83,7 @@ The original project included features such as:
 - 📚 Knowledge retrieval system
 - ⏰ Scheduled tasks and reminders
 
-The public repository contains a **simplified and adapted version** of the original project, focused on showcasing its main architecture, core functionality and development approach.
+Originally developed as my **Bachelor's Degree Final Project**, the project also has a **simplified portfolio-oriented adaptation** focused on showcasing its main architecture, core functionality and development approach.
 
 #### Technologies used in the original project
 
